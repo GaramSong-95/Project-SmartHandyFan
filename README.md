@@ -2,7 +2,8 @@
 Cortex-M3 Mini 보드를 기반으로 한 펌웨어 프로그래밍 프로젝트
 
 
-![image](https://github.com/user-attachments/assets/c417e08b-1c3d-4f29-8746-1d6522df74ea)
+![image](https://github.com/user-attachments/assets/c417e08b-1c3d-4f29-8746-1d6522df74ea)  ![image](https://github.com/user-attachments/assets/bca287af-e02e-4e43-8c38-589d33ea9e35)
+
 
 
 
