@@ -5,7 +5,19 @@ Cortex-M3 Mini 보드를 기반으로 한 펌웨어 프로그래밍 프로젝트
 ![image](https://github.com/user-attachments/assets/c417e08b-1c3d-4f29-8746-1d6522df74ea)  ![image](https://github.com/user-attachments/assets/48aac9e2-0d55-4e4b-ae36-de35c5add497)
 
 
+## ⚙️ 사용 기술 (Tech Stack)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STM32-Cortex--M3-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PWM-Control-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UART-Communication-007396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TeraTerm-Serial%20Terminal-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Interrupts-External%20Buttons-607D8B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/L293D-Motor%20Driver-E91E63?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CP2102-USB--UART-3F51B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Logic%20Analyzer-Signal%20Test-795548?style=for-the-badge"/>
+</p>
 
 
 ## 1. 프로젝트 개요
